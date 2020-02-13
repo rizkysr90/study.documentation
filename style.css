@@ -30,7 +30,7 @@ a {
     background-color: rgba(255, 255, 255, .2);
     border: 2px solid rgba(255, 255, 255, .6);
     width: 80%;
-    height: 60vh;
+    height: 380px;
     margin: 0 auto;
     border-radius:5px;
 }
@@ -121,7 +121,7 @@ a:hover {
     position: absolute;
     opacity: 0;
     left: 2%;
-    top: 14%;
+    top: 12%;
     font-weight: 600;
     margin: 0;
     font-size: .6em;
@@ -155,8 +155,8 @@ a:hover {
 .intro {
     padding: 10px;
     font-size: 14px;
-    text-align: center;
-    margin: 0;
+    text-align: justify;
+    margin: 0 0 px;
     
 }
 

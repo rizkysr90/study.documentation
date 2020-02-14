@@ -156,6 +156,7 @@ a:hover {
     padding: 10px;
     font-size: 14px;
     text-align: justify;
+    word-spacing: -2px;
     margin: 0 0 px;
     
 }
